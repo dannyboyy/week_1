@@ -15,6 +15,7 @@ gem 'spring',        group: :development
 gem 'devise', '~> 3.4.1'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
+gem 'simple_form'
 
 
 
